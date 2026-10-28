@@ -5,14 +5,16 @@
 # authors for each page.
 
 - title: Web search tool with the Perplexity Search API
-  path: examples/partners/perplexity_search_tool/perplexity_search_tool.ipynb
+  path: examples/third_party/perplexity_search_tool.ipynb
   slug: perplexity-search-tool
-  description: Call the Perplexity Search API with the Perplexity Python library, expose it as a function tool for the Responses API, and narrow results with domain and recency filters.
+  description: >-
+    Call the Perplexity Search API with the Perplexity Python library, expose it
+    as a function tool for the Responses API, and narrow results with domain and
+    recency filters.
   date: 2026-10-28
   authors:
     - andrewmadson-pplx
   tags:
-    - partners
     - responses
     - functions
     - web-search
