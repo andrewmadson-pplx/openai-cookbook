@@ -3,6 +3,11 @@
 # You can optionally customize how your information shows up cookbook.openai.com over here.
 # If your information is not present here, it will be pulled from your GitHub profile.
 
+andrewmadson-pplx:
+  name: "Andrew Madson (Perplexity)"
+  website: "https://github.com/andrewmadson-pplx"
+  avatar: "https://avatars.githubusercontent.com/andrewmadson-pplx"
+
 HsingTang:
   name: "Hsing-chih Tang (Databricks)"
   website: "https://linkedin.com/in/hsingchih-tang"
