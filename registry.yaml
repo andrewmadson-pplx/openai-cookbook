@@ -4,6 +4,21 @@
 # should build pages for, and indicates metadata such as tags, creation date and
 # authors for each page.
 
+- title: Web search tool with the Perplexity Search API
+  path: examples/third_party/perplexity_search_tool.ipynb
+  slug: perplexity-search-tool
+  description: >-
+    Call the Perplexity Search API with the Perplexity Python library, expose it
+    as a function tool for the Responses API, and narrow results with domain and
+    recency filters.
+  date: 2026-10-28
+  authors:
+    - andrewmadson-pplx
+  tags:
+    - responses
+    - functions
+    - web-search
+
 - title: Harness-aware evaluation of plugins
   path: examples/partners/harness_aware_plugin_evals/harness_aware_plugin_evals.ipynb
   slug: harness-aware-plugin-evals
